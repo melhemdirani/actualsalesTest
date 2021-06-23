@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/actualsalesTest/static/css/main.850741ec.chunk.css",
+    "main.js": "/actualsalesTest/static/js/main.865f63be.chunk.js",
+    "main.js.map": "/actualsalesTest/static/js/main.865f63be.chunk.js.map",
+    "runtime-main.js": "/actualsalesTest/static/js/runtime-main.0dc39ef1.js",
+    "runtime-main.js.map": "/actualsalesTest/static/js/runtime-main.0dc39ef1.js.map",
+    "static/js/2.26b95676.chunk.js": "/actualsalesTest/static/js/2.26b95676.chunk.js",
+    "static/js/2.26b95676.chunk.js.map": "/actualsalesTest/static/js/2.26b95676.chunk.js.map",
+    "index.html": "/actualsalesTest/index.html",
+    "static/css/main.850741ec.chunk.css.map": "/actualsalesTest/static/css/main.850741ec.chunk.css.map",
+    "static/js/2.26b95676.chunk.js.LICENSE.txt": "/actualsalesTest/static/js/2.26b95676.chunk.js.LICENSE.txt",
+    "static/media/contact_facebook.19fd507f.png": "/actualsalesTest/static/media/contact_facebook.19fd507f.png",
+    "static/media/contact_instagram.33649147.png": "/actualsalesTest/static/media/contact_instagram.33649147.png",
+    "static/media/contact_phone.410bf921.png": "/actualsalesTest/static/media/contact_phone.410bf921.png",
+    "static/media/App.css": "/actualsalesTest/static/media/healthy2.e1ad971f.jpg",
+    "static/media/offers_family.2649c520.jpg": "/actualsalesTest/static/media/offers_family.2649c520.jpg",
+    "static/media/offers_group.8836c38a.jpg": "/actualsalesTest/static/media/offers_group.8836c38a.jpg",
+    "static/media/offers_retirement.3811117d.jpg": "/actualsalesTest/static/media/offers_retirement.3811117d.jpg",
+    "static/media/service_car.b0fed2a2.jpg": "/actualsalesTest/static/media/service_car.b0fed2a2.jpg",
+    "static/media/service_carIcon.8307dcab.png": "/actualsalesTest/static/media/service_carIcon.8307dcab.png",
+    "static/media/service_health.6f570e9e.jpg": "/actualsalesTest/static/media/service_health.6f570e9e.jpg",
+    "static/media/service_healthIcon.c8fe5936.png": "/actualsalesTest/static/media/service_healthIcon.c8fe5936.png",
+    "static/media/service_travel.fd2bd1b0.jpg": "/actualsalesTest/static/media/service_travel.fd2bd1b0.jpg",
+    "static/media/service_travelIcon.4a2cf0aa.png": "/actualsalesTest/static/media/service_travelIcon.4a2cf0aa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dc39ef1.js",
+    "static/js/2.26b95676.chunk.js",
+    "static/css/main.850741ec.chunk.css",
+    "static/js/main.865f63be.chunk.js"
+  ]
+}
