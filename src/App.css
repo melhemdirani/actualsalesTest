@@ -32,7 +32,7 @@ a{
 }
 .About{
  background-image: url(/src/Images/healthy.jpg);
- height: 80vh;
+ height: 90vh;
  background-position: center;
  margin-top: 93px;
  display: flex;
@@ -46,7 +46,7 @@ a{
   margin-top: 50px;
   padding: 20px;
   border-radius: 25px;
-  height: 65vh;
+  height: 70vh;
 }
 .About_info{
   display: flex;
@@ -60,6 +60,7 @@ a{
   color:rgb(0,56,102) ;
   border-left: 7px solid rgb(255,66,0) ;
   padding-left: 10px;
+  margin-bottom: -40px;
 }
 .About_inputs{
   display: flex;
@@ -88,7 +89,7 @@ label{
   width: 120px;
   padding: 10px;
   cursor: pointer;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 .About_button:hover{
   background-color: rgb(255,66,0);
@@ -163,10 +164,7 @@ label{
   background-color: rgb(255,66,0);
   border-color:rgb(255,66,0);
 }
-.Imageslider_contianer{
 
-
-}
 .Offers_title{
   text-align: center;
   margin: 100px;
@@ -323,8 +321,9 @@ justify-content: center;
   }
   .About_h1{
     color: white;
-    margin-top: 110px;
+    margin-top: 140px;
     font-size: 20px;
+    margin-bottom: 20px;
 
   }
   .footer_text{
@@ -423,7 +422,13 @@ justify-content: center;
     margin-bottom: -20px;
   }
 }
+@media screen and (max-width: 370px) {
+  .About_h1{
+    margin-top: 120px;
+  }
+}
 @media screen and (max-width: 330px) {
+
   label{
      margin-top: -80px;
      margin-bottom: -80px;
@@ -437,6 +442,7 @@ justify-content: center;
   }
   .About_h1{
     margin-bottom: -20px;
+    margin-top: 120px;
   }
   .navbar_logo{
     width: 160px;
