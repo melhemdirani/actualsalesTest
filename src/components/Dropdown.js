@@ -11,9 +11,10 @@ function Dropdown() {
             <i className="fa fa-caret-down"></i>
         </button>
         <div className="dropdown-content">
+        <a href="#about">Subscribe </a>
+            <a href="#services">Services </a>
             <a href="#offers">Offers </a>
             <a href="#contact">Contact</a>
-            <a href="#services">Services </a>
         </div>
         </div> 
     </div>
